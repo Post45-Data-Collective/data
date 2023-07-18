@@ -7,7 +7,7 @@ The Index of Major Literary Prizes in the US includes two related datasets.
 
 ## Major Literary Prize Winners and Judges (Dataset)
 
-- [Link to raw dataset]([https://github.com/Post45-Data-Collective/data/raw/main/major_literary_prizes/%20major_literary_prizes-winners_judges.tsv](https://github.com/Post45-Data-Collective/data/raw/main/major_literary_prizes/major_literary_prizes-winners_judges.tsv))
+- [Link to raw dataset](https://github.com/Post45-Data-Collective/data/raw/main/major_literary_prizes/%20major_literary_prizes-winners_judges.tsv)
 - [Explore the dataset](https://view.data.post45.org/mlpwinners) 
 - [Explore the dataset (flat viewer)](https://flatgithub.com/Post45-Data-Collective/data/raw/main/major_literary_prizes/%20major_literary_prizes-winners_judges.tsv?filename=major_literary_prizes%2F%20major_literary_prizes-winners_judges.tsv)
 
