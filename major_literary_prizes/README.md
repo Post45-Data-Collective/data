@@ -1,7 +1,7 @@
 # The Index of Major Literary Prizes in the US
 
-## Authors: Claire Grossman, Juliana Spahr, and Stephanie Young
-## DOI: https://doi.org/10.18737/CNJV1733p4520221212  
+Authors: Claire Grossman, Juliana Spahr, and Stephanie Young  
+DOI: https://doi.org/10.18737/CNJV1733p4520221212   
 
 The Index of Major Literary Prizes in the US includes two related datasets.
 
