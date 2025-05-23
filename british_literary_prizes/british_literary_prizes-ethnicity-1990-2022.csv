@@ -1,0 +1,756 @@
+﻿person_id,ethnicity_parsed
+1,Irish
+2,Black
+2,Scottish
+3,American British
+4,English
+5,British
+6,Irish
+7,British American
+8,Bangladeshi British
+9,English
+10,Scottish
+11,White American
+12,White American
+13,British
+14,Irish
+15,English
+16,White American
+17,English
+18,English
+19,Scottish
+20,White American
+21,English
+22,British
+22,Jamaican
+23,Hong Kong Chinese
+23,British
+24,English
+25,English
+26,English
+27,Scottish
+28,English
+29,English
+30,American
+30,Kittitian British
+31,English
+32,Welsh
+33,British
+34,English
+34,Jamaican Chinese
+35,British Ghanaian
+36,English
+37,English
+38,British Indian
+39,British Trinidadian
+40,Trinidadian
+41,Black British
+42,Irish
+43,French
+43,English
+43,Dutch
+44,English
+45,British
+45,Jamaican Caymanian
+46,English
+47,Hong Kong Chinese
+48,Indian British
+49,Dutch
+50,English
+51,Irish
+52,Scottish
+53,English
+54,English
+55,Scottish
+56,British
+57,British
+58,English
+59,English
+60,British
+61,British
+62,Scottish
+63,British
+64,British
+65,English
+66,German British
+67,Scottish
+68,English
+69,British
+70,Scottish
+71,Welsh
+72,English
+73,English
+74,British
+75,British
+76,White South African
+76,British
+77,English
+78,Jewish British
+79,British 
+80,British 
+81,Scottish
+82,British
+83,British
+84,English
+85,Scottish
+86,White Canadian
+87,English
+88,Indian
+89,Northern Irish
+90,English
+91,English
+92,English
+93,British
+94,Irish
+95,English
+96,White American British
+97,Jamaican British
+98,British
+99,British
+100,English
+101,Scottish
+102,Irish
+102,British
+103,Jewish British 
+104,English
+105,British
+106,Scottish
+107,English
+108,English
+109,British
+110,British
+111,Malaysian
+112,English
+113,Irish
+113,British
+114,Jamaican British
+115,British
+116,British
+117,British
+118,British
+119,English
+120,White Australian British
+121,British 
+122,British
+123,English
+124,British
+125,English
+126,English
+127,British
+128,English
+129,English
+130,British
+131,British Indian
+132,Welsh British
+133,Scottish
+134,Northern Irish
+135,English
+136,British
+138,British
+139,English
+140,English
+141,British
+141,White South African
+142,British
+142,White American
+143,Scottish
+144,British Guyanese
+145,British
+146,British
+147,English
+148,English
+149,Indian British
+150,British
+151,Irish
+152,English
+153,Irish
+154,Guyanese British
+155,American British
+156,English
+157,British
+158,American British
+159,British
+160,English
+161,Scottish
+162,Scottish
+163,British
+164,English
+165,British
+166,British
+167,English
+168,English
+169,Northern Irish
+170,English
+171,Sri Lankan Sinhalese
+172,Zimbabwean
+173,Black American
+174,English
+175,Irish
+176,White American
+177,Jewish South African
+178,Sri Lankan Tamil
+179,White American
+180,Somali British
+181,White American
+182,White American
+183,Scottish American
+184,White American
+185,Zimbabwean
+186,Indian American
+187,Ethiopian American
+188,Black American
+189,British
+189,Nigerian
+190,White Canadian
+191,Nigerian
+192,Turkish British
+193,Northern Irish
+194,Ghanaian Canadian
+195,British 
+196,White American
+197,Scottish
+198,White American
+199,Jewish American
+200,White American
+201,Pakistani British
+202,English
+203,Black American
+204,British
+204,White South African
+205,Scottish
+206,Iranian American
+206,Croatian American
+206,Jewish
+207,White Canadian
+207,Hungarian English
+208,Chinese Canadian
+209,Jamaican
+210,English
+211,British
+212,White American
+213,Korean American
+213,Japanese American
+214,White Australian
+215,White American
+216,White American
+217,Jewish British
+218,British American
+218,Indian
+219,White New Zealander
+220,Indian American
+221,Japanese American
+222,English
+223,English
+224,Malaysian
+225,Indian
+226,English
+227,English
+228,White American
+228,White Canadian
+229,English
+230,English
+231,White Australian
+232,Irish
+232,White Canadian
+233,White Australian
+233,White South African
+234,English
+235,British
+235,Welsh
+236,Indian Australian
+237,Indian American
+238,Jewish British
+239,English
+240,Australian
+241,Irish
+242,English
+243,White New Zealander
+244,Indian British
+245,Indian American
+246,White Australian
+247,Australian
+247,Irish British
+248,American
+248,British Libyan
+249,English
+250,Irish
+251,Japanese British
+252,South African
+253,English
+254,English
+255,British
+256,Bangladeshi British
+257,White American
+257,Jewish British
+258,English
+259,French Canadian
+260,Indian Canadian
+261,White American
+261,White Canadian
+262,White Australian
+263,British
+263,German Australian
+264,Welsh
+264,Maltese
+265,Irish
+266,Irish American
+267,Indian American
+267,German
+268,Egyptian British 
+269,English
+270,Irish
+271,English
+272,Indian
+273,British
+274,Northern Irish
+275,British
+276,Jewish Australian
+277,Irish
+278,Scottish
+279,English
+280,English
+281,Scottish
+282,British
+282,Sri Lankan Sinhalese
+283,British
+283,Tanzanian
+284,Scottish
+285,English
+286,Irish
+287,Hungarian British
+288,Russian Canadian
+289,White Australian
+290,Canadian
+290,Dutch Sri Lankan
+291,White South African
+292,French
+292,British
+293,Nigerian British
+294,English
+297,Indian British
+299,Irish
+300,White American
+301,Ojibwe
+301,German American
+301,Chippewa
+302,Trinidadian
+303,White New Zealander
+303,British Australian
+304,Black American
+305,English
+306,Ghanaian American
+308,White American
+309,Dominican American
+310,English
+311,Black American
+312,Nigerian British
+312,Nigerian
+313,British
+313,Nigerian
+314,White American
+315,Pakistani British
+316,Turkish American
+317,British
+318,British
+319,Indian
+320,Black American
+321,Jewish British
+322,Nigerian
+323,White American
+324,British
+325,Irish
+326,Black American
+327,White American
+328,Jewish British
+329,Nigerian America
+330,White Australian
+331,Irish
+332,White American
+333,British
+334,White American
+335,English
+336,Jewish American
+337,White American
+338,Serbian American
+339,Scottish
+339,Sierra Leonan
+340,British
+341,Jewish American
+342,English
+342,White Canadian
+343,English
+344,Black American
+345,White American
+346,White American
+347,White American
+348,English
+349,White American
+350,Northern Irish
+351,White Canadian
+352,Jewish British
+353,White Canadian
+354,White American
+355,Chinese British
+356,English
+357,Irish British
+357,White Australian
+358,White American
+359,English
+360,White American
+361,Ukrainian British
+362,White American
+363,White Australian American
+364,British
+364,White South African
+365,White American
+366,Scottish
+367,White Australian
+368,English
+369,English
+370,White American
+371,White American
+372,White American
+373,Irish
+374,White American
+375,White American
+376,British
+377,White Canadian
+378,White American
+379,Black American
+380,White American
+381,Irish
+382,White American
+383,Jewish Canadian
+385,White American
+386,White American
+387,Scottish
+388,White American
+389,Chinese American
+390,White American
+393,Jewish British
+394,Black American
+404,English
+405,White American
+409,Irish
+410,English
+411,White New Zealander
+412,unknown
+413,Black American
+414,White American
+415,British Indian
+417,British
+418,White American
+419,British
+420,British
+421,Scottish
+423,British
+424,White Australian
+425,English
+426,English
+427,White American
+428,Jewish American
+429,English
+430,Slavic Australian
+431,Northern Irish
+432,Irish
+432,American
+433,British
+433,White Australian
+434,British
+435,Scottish
+436,Scottish
+437,White American
+438,Mexican American
+439,White American
+440,White American
+442,White American
+443,British
+444,British
+445,White Canadian
+446,White South African
+447,White American
+448,White Australian
+449,Irish
+450,English
+451,British
+452,White American
+453,White American
+454,British
+455,Greek American
+456,Scottish
+457,English
+459,English
+460,White American
+461,English
+462,White American
+463,British Australian
+464,White American
+465,English
+466,Australian
+466,White South African
+467,White Canadian
+468,White American
+469,Scottish
+470,British
+471,British
+472,British
+473,White American
+474,Welsh
+475,English
+476,Icelandic
+477,White American
+478,British
+479,Scottish
+480,White Canadian
+481,English
+482,Cuban Spanish
+483,Swedish
+484,White American
+485,British
+486,Scottish
+487,British
+488,White American
+489,English
+490,British
+491,British 
+492,Black American
+493,British
+494,British 
+495,British
+496,Vietnamese
+496,French
+497,White American
+498,British
+500,Irish
+500,Scottish
+501,British
+502,Scottish
+503,Maltese British
+504,White Canadian
+505,Welsh
+506,British
+507,White American
+508,Scottish
+509,English
+510,Welsh British
+511,White American
+512,White American
+513,British Caribbean
+514,White American
+515,British Indian
+516,Northern Irish
+517,Welsh
+518,White American
+519,Irish Canadian
+519,British
+520,Welsh
+521,British Trinidadian
+522,Briitsh 
+523,British Indian
+524,British Trinidadian
+525,British
+526,Vietnamese American
+527,British
+528,Chinese British
+529,English
+530,Northern Irish
+531,White American
+532,St Lucian
+533,Estonian
+533,British
+534,White Canadian
+534,British
+535,British
+536,Hungarian British 
+537,White Canadian
+538,English
+539,White Australian
+540,White American
+541,Northern Irish
+542,Northern Irish
+544,Scottish
+544,Nigerian
+545,Jewish Welsh
+546,Scottish
+547,White American
+548,English
+549,Irish
+550,English
+551,English
+552,British
+553,British
+554,Scottish
+555,English
+556,Northern Irish
+557,British
+558,English
+559,British Italian
+560,English
+561,English
+562,White American British
+563,English
+564,English
+565,English
+566,English
+567,Briitsh 
+568,British Nigerian
+569,Pakistani
+569,Scottish
+570,White American
+571,Sudanese
+572,British
+573,Scottish
+574,Scottish
+575,British
+576,English
+577,Jamaican
+577,Black British
+578,British
+579,Jamaican Irish
+580,English
+581,British
+582,Scottish
+583,British
+584,British
+585,Zambian
+586,Nigerian
+587,British
+588,English
+589,English
+590,Jamaican British
+591,Indian
+591,Welsh
+592,Jamaican British
+593,Welsh
+594,White American
+595,Irish
+596,Scottish
+597,British
+598,White American
+599,Scottish
+600,German
+601,Jamaican
+602,Albanian
+603,English
+604,British
+605,British Mauritian
+606,British
+607,White American
+608,English
+609,British
+609,White American
+610,White American
+611,Scottish
+612,British
+613,British
+614,Iranian American
+615,Ukrainian
+616,English
+617,British
+618,White American
+619,White American
+620,White American
+621,White American
+622,English
+622,French
+623,Bulgarian
+624,Jewish American
+625,Jewish British
+626,English
+627,Jewish
+627,British French
+628,Belarusian
+629,Jewish American
+630,British
+631,White Trinidadian
+631,British
+632,British
+633,British
+634,Indian
+635,White American
+636,British
+637,White American
+638,English
+639,British
+639,White Australian
+640,Scottish
+641,English
+642,British
+643,English
+644,White Canadian
+645,White American
+646,Scottish
+647,Polish Romanian
+647,Jewish Canadian
+648,English
+649,Anglo Norwegian
+650,Dutch
+651,British
+652,White American
+653,English
+654,Jewish American
+655,English
+656,White American
+657,British
+658,British
+659,Jewish American
+660,English
+661,English
+662,British
+663,Kenyan Indian
+664,British
+665,White American
+666,English
+667,British
+668,English
+669,British
+670,British German
+670,Jewish
+671,British
+672,White American
+673,Indian American
+674,Dutch American
+674,Jewish
+675,Irish British
+676,British
+677,English
+678,Jewish American
+679,English
+680,British
+681,British
+681,Lebanese
+682,Jewish British
+683,Jewish American
+684,English
+685,Indian American
+686,Turkish
+687,English
+688,White Australian
+689,Jewish American
+690,American British
+691,Kenyan British
+692,English
+693,English
+694,English
+695,English
+696,White Canadian
+697,Irish
+698,English
+699,British
+700,Irish
+701,English
+702,British
+703,British
+704,Jewish British
+705,British
+706,British
+707,British
+708,British
+709,Jewish British
+710,English
+711,White American
+712,English
+,
+,
+,
+,
