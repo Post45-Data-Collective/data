@@ -1,4 +1,4 @@
-# "Selected British Literary Prizes: 1990 to 2022"
+# Selected British Literary Prizes (1990 to 2022)
 
 Authors: Katherine Binhammer, Kanika Batra, Theo Gray, Maryse Jayasuriya
 
