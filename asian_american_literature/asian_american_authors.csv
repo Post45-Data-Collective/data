@@ -1,4 +1,4 @@
-﻿author_name,instances_of_study,birth_year,gender,ethnicity_national_origin_group,race,birth_nation,native_foreign,immigrant_generation,immigration_year,nations,states,cities,education_level,degree,mfa,degree_institution,university_teacher,teaching_institution,author_awards
+author_name,instances_of_study,birth_year,gender,ethnicity_national_origin_group,race,birth_nation,native_foreign,immigrant_generation,immigration_year,nations,states,cities,education_level,degree,mfa,degree_institution,university_teacher,teaching_institution,author_awards
 "Abichandani, Jaishri ",1,1969,F,Indian,Asian,India,Foreign,1,1984,"India, United States, England",NY,"Bombay, New York City, London",Graduate,Master's,Y,Goldsmith's College,N,N/A,"En Foco 2000 New Works Photography Award, Brooklyn Information & Culture Artist Honoree, Urban Artist's Initiative Award, and more"
 "Acharya, Manish",1,1967,M,Indian,Asian,India,Foreign,1,,"United States, India",,Mumbai,Graduate,Master's,Y,New York University,,,
 "Adachi, Jeff",1,1959,M,Japanese,Asian,United States,Native,4,N/A,United States,CA,,Graduate,JD,N,University of California Hastings,N,N/A,
@@ -49,11 +49,11 @@ Bambu,3,,M,Filipinx,Asian,United States,Native,2,N/A,United States,CA,"Los Angel
 "Boublil, Alain",3,1941,M,Tunisian,MENA,Tunisia (French colony),N/A,N/A,N/A,,,,,,,,N,N/A,
 "Brakhage, Stan",1,1933,M,,,United States,Native,,N/A,United States,"CO, CA, NY","Denver, San Francisco, New York City",High School,High School Diploma,N,South High School,Y,"University of Colorado Boulder, Art Institute of Chicago",
 "Briggs, John R.",1,,,,,,,,,,,,,,,,,,
-"Brontë, Charlotte",1,1816,F,English,White,England,Foreign,N/A,N/A,England,N/A,,,,,,,,
+"Bront�, Charlotte",1,1816,F,English,White,England,Foreign,N/A,N/A,England,N/A,,,,,,,,
 Bruno Mars,1,1985,M,Filipinx-Jewish-Puerto Rican,Multiracial Asian-Jewish-Latinx,United States,Native,2,N/A,United States,"HI, CA","Honolulu, Los Angeles",High School,High School Diploma,N,President Theodore Roosevelt High School,N,N/A,Grammy Awards
 "Buck, Pearl",4,1892,F,Euro American,White,United States,Native,,N/A,"China, United States",PA,,Graduate,Master's,N,Cornell University,N,N/A,Nobel Prize
 "Budhos, Marina Tamar",1,1960,F,Indian-Jewish,Multiracial Asian-Jewish,United States,Native,2,N/A,United States,NY,New York City,Graduate,Master's,N,Brown University,Y,William Paterson University,"National Endowmen for the Arts Literature Fellowship, Rona Jaffe Award for Women Writers, New Jersey Council on the Arts Fellowship, and more"
-"Bui, Thi",2,1975,F,Vietnamese,Asian,South Vietnam,Foreign,1.5,1978,"South Vietnam, United States",CA,Berkeley,Graduate,Master's,Y,Bard College,Y,California College of the Arts,"Bill Sorro Community Activist Honoree, Bellagio Residency Rockefeller Foundation Fellow, Alameda County Women’s Hall of Fame, and more"
+"Bui, Thi",2,1975,F,Vietnamese,Asian,South Vietnam,Foreign,1.5,1978,"South Vietnam, United States",CA,Berkeley,Graduate,Master's,Y,Bard College,Y,California College of the Arts,"Bill Sorro Community Activist Honoree, Bellagio Residency Rockefeller Foundation Fellow, Alameda County Women�s Hall of Fame, and more"
 "Bui, Tony",1,1973,M,Vietnamese,Asian,South Vietnam,Foreign,1.5,,"South Vietnam, United States",CA,Sunnyvale,Undergraduate,Bachelor's,N,Loyola Marymount University,Y,Columbia University,Humanitas Prize
 "Bulosan, Carlos",31,1913,M,Filipinx,Asian,Philippines (United States territory),Foreign,1,1930,"Philippines, United States","WA, CA",Seattle,Some High School,None,N,N/A,N,N/A,
 "Butler, Robert Olen",2,1945,M,Euro American,White,United States,Native,,N/A,,,,Graduate,Master's,N,University of Iowa,Y,Florida State University,
@@ -64,7 +64,7 @@ Bruno Mars,1,1985,M,Filipinx-Jewish-Puerto Rican,Multiracial Asian-Jewish-Latinx
 "Cao, Lan",4,1961,F,Vietnamese,Asian,South Vietnam,Foreign,1,1975,"South Vietnam, United States","CT, NY",New York City,Graduate,JD,N,Yale University,Y,Chapman University,
 "Capote, Truman",1,1924,M,,,United States,Native,,N/A,United States,"AL, NY, CT",New York City,High School,High School Diploma,N,Franklin School,N,N/A,O. Henry Award
 "Capra, Frank",1,1897,M,Italian,White,Italy,Foreign,1.5,1903,"Italy, United States",CA,,Undergraduate,Bachelor's,N,California Institute of Technology,N,N/A,"Academy Award, George Eastman Award"
-"Carbó, Nick",1,1964,M,Filipinx,Asian,Philippines,Foreign,1,,United States,FL,,Graduate,Master's,Y,Sarah Lawrence College,N,N/A,National Endowment for the Arts Fellowship
+"Carb�, Nick",1,1964,M,Filipinx,Asian,Philippines,Foreign,1,,United States,FL,,Graduate,PhD,Y,University of Manchester,N,N/A,National Endowment for the Arts Fellowship
 "Carlson, Melody",1,1956,F,,,United States,Native,,N/A,United States,"CA, OR",Eugene,Undergraduate,Associate's,N,Lane Community College,N,N/A,Romantic Times Career Achievement Award
 "Carpenter, John",1,,M,Euro American,White,United States,Native,,N/A,United States,"CA, KY, NY",Los Angeles,Undergraduate,Bachelor's,N,University of Southern California,N,N/A,
 "Castillo, Ana",1,1953,F,Mexican,Latinx,United States,Native,,N/A,United States,IL,Chicago,Graduate,PhD,N,University of Bremen,Y,Sonoma State College,National Endowment for the Arts Fellowship
@@ -74,7 +74,7 @@ Bruno Mars,1,1985,M,Filipinx-Jewish-Puerto Rican,Multiracial Asian-Jewish-Latinx
 "Chai, Winberg",1,,M,Chinese,Asian,China,Foreign,,,United States,WY,,Graduate,PhD,,New York University,Y,University of Wyoming,
 "Chan, Celeste",2,,F,Malaysian,Asian,United States,Native,2,N/A,United States,CA,San Francisco,Graduate,Master's,Y,San Francisco State University,N,N/A,Bread Loaf's Rona Jaffe Scholarship
 "Chan, Jeffery Paul",14,1942,M,Chinese,Asian,United States,Native,3,N/A,United States,CA,,Graduate,Master's,N,San Francisco State University,Y,San Francisco State University,
-Chang Chin-sŏng,1,,,,,,,,,,,,,,,,,,
+Chang Chin-s_ng,1,,,,,,,,,,,,,,,,,,
 "Chang, Diana",2,1934,F,Chinese,Asian,United States,Native,,N/A,"China, United States",NY,"Beijing, Nanjing, Shanghai, New York City",Undergraduate,Bachelor's,N,Barnard College,Y,Barnard College,Fulbright Fellowship
 "Chang, Eileen",5,1920,F,Chinese,Asian,China,Foreign,1,1955,"China, Hong Kong (British territory), United States",CA,Los Angeles,Some Undergraduate,High School Diploma,N,St. Mary's Hall,N,N/A,
 "Chang, Jung",1,1952,F,Chinese,Asian,China,N/A,N/A,N/A,"China, England",,London,Graduate,PhD,N,University of York,N,N/A,
@@ -88,7 +88,7 @@ Chang Chin-sŏng,1,,,,,,,,,,,,,,,,,,
 "Chen, Da",1,1962,M,Chinese,Asian,China,Foreign,1,,"China, United States","CA, NY",New York City,Graduate,JD,N,Columbia University,N,N/A,
 "Cheong, Fiona",1,1961,F,Chinese (from Singapore),Asian,Singapore,Foreign,,,,,,Graduate,Master's,Y,Cornell University,Y,University of Pittsburgh,
 "Chesnutt, Charles",1,1858,M,African American,Black,United States,Native,,N/A,United States,"OH, NC",,,,N,,N,N/A,
-"Chi, Tseng Kwong",1,1950,M,Chinese,Asian,Hong Kong (British territory),Foreign,1,1978,"Hong Kong (British territory), Canada, United States",NY,"Vancouver, New York City",Undergraduate,,N,Académie Julian,N,N/A,
+"Chi, Tseng Kwong",1,1950,M,Chinese,Asian,Hong Kong (British territory),Foreign,1,1978,"Hong Kong (British territory), Canada, United States",NY,"Vancouver, New York City",Undergraduate,,N,Acad�mie Julian,N,N/A,
 "Chiang, S. Leo",1,,M,Chinese (from Taiwan),Asian,Taiwan,Foreign,,,"Taiwan, United States",CA,"Los Angeles, San Francisco, Taipei",Graduate,Master's,Y,University of Southern California,Y,"Northwestern University, University of California Santa Cruz, University of California Berkeley, Communication University of China","Creative Capital Grant, Rockwood/Ford JustFilms Fellowship, Sundance-Time Warner Fellowship"
 "Chiang, Ted",6,1967,M,Chinese (from Taiwan),Asian,United States,Native,2,N/A,United States,"NY, WA",,Undergraduate,Bachelor's,N,Brown University,N,N/A,"Hugo Award, PEN/Malamud Award"
 "Chin, Frank",42,1940,M,Chinese,Asian,United States,Native,2,N/A,United States,CA,Oakland,Undergraduate,Bachelor's,N,University of California Santa Barbara,N,N/A,Lannan Award
@@ -116,11 +116,11 @@ Christine Love,1,,,,,,,,,,,,,,,,,,
 "Chung, Mia",1,,F,Korean,Asian,United States,Native,2,N/A,United States,"CA, DC","San Diego, Los Angeles, Berkeley, Washington D.C.",Graduate,Master's,Y,,,,Whiting Award
 "Cimino, Michael",1,1939,M,Euro American,White,United States,Native,3,N/A,United States,"NY, CA","Los Angeles, New York City",Graduate,Master's,Y,Yale University,N,N/A,
 "Cisneros, Sandra",2,1954,F,Mexican,Latinx,United States,Native,N/A,N/A,"United States, Mexico","IL, TX",Chicago,Graduate,Master's,Y,University of Iowa,Y,"University of California Berkeley, University of Michigan","MacArthur Fellowship, National Endowment for the Arts Fellowship, National Medal of the Arts, and more"
-"Clement, Marie",1,1962,F,Canadian Métis,Native American,Canada,N/A,N/A,N/A,Canada,,,Undergraduate,Bachelor's,N,Mount Royal College,N,N/A,
+"Clement, Marie",1,1962,F,Canadian M�tis,Native American,Canada,N/A,N/A,N/A,Canada,,,Undergraduate,Bachelor's,N,Mount Royal College,N,N/A,
 "Clements, Ron",1,1953,M,,,United States,Native,,N/A,United States,"IA, CA",,High School,High School Diploma,N,,N,N/A,"Annie Award, Los Angeles Film Critics Association Award, African American Film Critics Association Award"
 "Clouse, Robert",1,1929,M,Euro American,White,United States,Native,,N/A,,,,,,,,,,
 "Cook, Barry",1,1958,M,Euro American,White,United States,Native,,N/A,,,,,,,,N,N/A,
-"Coulibaly, Serge Aimé",1,1972,M,Burkinabé,Black,Burkina Faso,Foreign,N/A,N/A,"Burkina Faso, Belgium",,,,,,,,,
+"Coulibaly, Serge Aim�",1,1972,M,Burkinab�,Black,Burkina Faso,Foreign,N/A,N/A,"Burkina Faso, Belgium",,,,,,,,,
 "Coltrane, John",1,1926,M,African American,Black,United States,Native,,N/A,United States,"NC, PA",Philadelphia,High School,High School Diploma,N,William Penn High School,N,N/A,"Grammy Award, Pulitzer Prize"
 "Cowell, Henry",1,1897,M,Irish,White,United States,Native,,N/A,United States,"CA, KS, IA, OK",San Francisco,Some Undergraduate,,,,Y,"New School for Social Research, Columbia University",
 "Cronenberg, David",1,1943,M,Euro American,White,Canada,N/A,N/A,N/A,Canada,,,Undergraduate,Bachelor's,N,University of Toronto,N,N/A,"Special Jury Award Cannes Film Festival, Officer of the Order of Canada, Golden Lion Venice International Film Festival, and more"
@@ -135,8 +135,8 @@ Dan Salvato,1,1991,M,,,United States,Native,,N/A,United States,NJ,,,,,,,,
 "Delman, Carmit",1,,F,Euro American-Indian-Jewish,Multiracial Asian-Jewish-White,United States,Native,,N/A,"United States, Israel","NY, MA, OH",Boston,Graduate,Master's,Y,Emerson College,N,N/A,
 "DeMille, Cecil B.",1,1881,M,Euro American,White,United States,Native,,N/A,,,,Undergraduate,Bachelor's,N,American Academy of Dramatic Arts,N,N/A,"Directors Guild of America Award, Academy Award, Golden Globe Award, and more"
 "Desai, Anita",3,1937,F,Indian,Asian,India (British colony),Foreign,1,,"India, United States",MA,,Undergraduate,Bachelor's,N,University of Delhi,Y,Massachusetts Institute of Technology,
-"Desai, Kiran",2,1971,F,Indian,Asian,India,Foreign,1,,"India, United States",,,Graduate,Master's,Y,Columbia University,N,N/A,Berlin Prize Fellowship
-"Díaz, Junot",1,1968,M,Dominican,Multiracial Black-Latinx,Dominican Republic,Foreign,1.5,1974,"Dominican Republica, United States","NJ, MA","Santo Domingo, Cambridge",Graduate,Master's,Y,Cornell University,Y,Massachusetts Institute of Technology,"Pulitzer Prize, MacArthur Fellowship, PEN/O. Henry Award, and more"
+"Desai, Kiran",2,1971,F,Indian,Asian,India,Foreign,1,,"India, United States",,,Graduate,Master's,Y,"Columbia University, Hollins University",N,N/A,Berlin Prize Fellowship
+"D�az, Junot",1,1968,M,Dominican,Multiracial Black-Latinx,Dominican Republic,Foreign,1.5,1974,"Dominican Republica, United States","NJ, MA","Santo Domingo, Cambridge",Graduate,Master's,Y,Cornell University,Y,Massachusetts Institute of Technology,"Pulitzer Prize, MacArthur Fellowship, PEN/O. Henry Award, and more"
 "Diaz, Ramona S.",1,,F,Filipinx,Asian,,,,,,,,Graduate,Master's,N,Stanford University,,,"Guggenheim Fellowship, United States Artist Fellowship, Women at Sundance Fellowship"
 "Dick, Philip K.",1,1928,M,Euro American,White,United States,Native,,N/A,United States,"IL, CA",,High School,High School Diploma,N,Berkeley High School,N,N/A,
 Digital Martyrs,1,,,,,,,,,,,,,,,,,,
@@ -155,7 +155,7 @@ DJ Sabzi,1,,M,Iranian,MENA,,,,,,WA,Seattle,,,,,,,
 "Eastwood, Clint",1,1930,M,Euro American,White,United States,Native,,N/A,,,,High School,High School Diploma,N,Oakland Technical High School,N,N/A,
 "Eaton, Edith",32,1865,F,Chinese-English,Multiracial Asian-White,England,Foreign,1,,"England, Canada, United States","CA, WA, MA","San Francisco, Seattle, Boston",No High School,None,N,N/A,N,N/A,
 "Eaton, Winnifred",10,1875,F,Chinese-English,Multiracial Asian-White,Canada,Foreign,1,,"Canada, United States","NY, CA","New York City, Los Angeles, Calgary",Some High School,None,N,N/A,N,N/A,
-"Edwards, Blake",1,1922,M,,,United States,Native,,N/A,United States,"OK, CA","Tulsa, Los Angeles",,,N,,N,N/A,Academy Lifetime Achievement Award 
+"Edwards, Blake",1,1922,M,,,United States,Native,,N/A,United States,"OK, CA","Tulsa, Los Angeles",,,N,,N,N/A,Academy Lifetime Achievement Award
 "Edwards, Gareth",1,1975,M,Welsh,White,England,N/A,N/A,N/A,England,N/A,,Undergraduate,Bachelor's,N,University for the Creative Arts Farnham,N,N/A,"Best Director British Independent Film Awards, Breakthrough British Filmmaker London Film Critics' Circle Awards"
 "Elliott, Duong Van Mai",2,1941,F,Vietnamese,Asian,Vietnam (French colony),Foreign,1,,,,,Undergraduate,Bachelor's,N,Georgetown University,N,N/A,
 "Ellison, Ralph",1,1913,M,African American,Black,United States,Native,,N/A,United States,"OK, AL, NY",New York City,High School,High School Diploma,N,Tuskegee Institute,N,N/A,
@@ -193,7 +193,7 @@ Outstanding Writing for a Comedy Series, Emmy Award Outstanding Comedy Series"
 "Garland, Alex",1,1970,M,,,United Kingdom,,,,United Kingdom,,London,,,,,,,"Boston Society of Film Critics Award, Chicago Film Critics Association Award, Directors Guild of America Award, and more"
 "Gauger, Stephane",1,1970,M,German-Vietnamese,Multiracial Asian-White,South Vietnam,Foreign,1.5,1975,"South Vietnam, United States",CA,Saigon,Undergraduate,Bachelor's,N,California State University Fullerton,,,
 Geologic,2,,M,Filipinx,Asian,United States,Native,2,N/A,United States,"HI, WA",Seattle,,,,,,,
-"George, James",1,1962,M,English-Irish-Ngāpuhi,Multiracial Pacific Islander-White,New Zealand,N/A,N/A,N/A,New Zealand,N/A,Auckland,,,,,Y,Auckland University of Technology,
+"George, James",1,1962,M,English-Irish-Ng_puhi,Multiracial Pacific Islander-White,New Zealand,N/A,N/A,N/A,New Zealand,N/A,Auckland,,,,,Y,Auckland University of Technology,
 "Ghosh, Amitav",3,1956,M,Indian,Asian,India,Foreign,1,,"India, Bangladesh, Sri Lanka, England, United States",NY,,Graduate,PhD,,University of Oxford,Y,Queens College,"Padma Shri, Erasmus Prize, Ford Foundation Art of Change, and more"
 "Gibbs, David",1,,,,,,,,,,,,,,,,,,
 "Gibson, William",1,1948,M,Euro American,White,United States,Native,,N/A,"United States, Canada",VA,,Undergraduate,Bachelor's,N,University of British Columbia,N,N/A,
@@ -201,7 +201,7 @@ Geologic,2,,M,Filipinx,Asian,United States,Native,2,N/A,United States,"HI, WA",S
 "Gilvarry, Alex",1,1981,M,Filipinx,Asian,United States,Native,,N/A,United States,"NY, MA",New York City,Graduate,Master's,Y,Hunter College,Y,"Monmouth University, Cornell University","Best New Voice Bookspan, National Book Foundation 5 under 35 Award "
 "Ginsberg, Allen",2,1926,M,Jewish,Jewish,United States,Native,,N/A,United States,"NJ, NY",New York City,Undergraduate,Bachelor's,N,Columbia University,Y,Brooklyn College,"National Book Award, American Academy of Arts and Letters Award,  Guggenheim Fellowship"
 "Golding, Dominic Hong Duc",1,1975,M,Vietnamese,Asian,South Vietnam,N/A,N/A,N/A,"South Vietnam, Australia",,,Undergraduate,Bachelor's,N,Flinders University,N,N/A,
-"Gómez-Peña, Guillermo",1,1955,M,Mexican,Latinx,Mexico,Foreign,1,1978,"Mexico, United States","CA, NY","San Diego, San Francisco, New York City",Graduate,Master's,Y,California Institute of the Arts,N,N/A,MacArthur Fellowship
+"G�mez-Pe�a, Guillermo",1,1955,M,Mexican,Latinx,Mexico,Foreign,1,1978,"Mexico, United States","CA, NY","San Diego, San Francisco, New York City",Graduate,Master's,Y,California Institute of the Arts,N,N/A,MacArthur Fellowship
 "Gonzalez, N. V. M.",1,1915,M,Filipinx,Asian,Philippines (United States territory),N/A,N/A,N/A,"Phillipines (United States territory), United States",CA,,High School,High School Diploma,N,N/A,Y,,
 "Gotanda, Philip Kan",3,1951,M,Japanese,Asian,United States,Native,,N/A,United States,CA,,Graduate,JD,N,University of California Hastings,N,N/A,"Guggenheim Fellowship, National Endowment for the Arts Fellowship"
 "Goto, Hiromi",4,1966,F,Japanese,Asian,Japan,N/A,N/A,N/A,Canada,,,Undergraduate,Bachelor's,N,University of Calgary,N,N/A,
@@ -233,7 +233,7 @@ Geologic,2,,M,Filipinx,Asian,United States,Native,2,N/A,United States,"HI, WA",S
 "Hazelton, George C.",1,1868,M,,,,,,,,,,,,,,,,
 "Hearn, Lafcadio",1,1850,M,Irish-Greek,White,Greece,Foreign,1,1869,"Ireland, United States, Japan","OH, LA","Dublin, Cincinnati, New Orleans",Some Undergraduate,,N,St. Cuthbert's College,Y,Imperial University of Tokyo,
 "Heng, Rachel",1,,F,Singapore,Asian,Singapore,Foreign,,,Singapore,,Singapore,Graduate,Master's,Y,University of Texas Austin,Y,Wesleyan,
-"Henríquez, Cristina",1,1977,F,Euro American-Panamanian,Multiracial Latinx-White,United States,Native,2,N/A,United States,"NJ, IL, DE, TX","Chicago, Dallas",Graduate,Master's,Y,University of Iowa,N,N/A,"21st Century Award Chicago Public Library Association, Alfredo Cisneros Del Moral Foundation Award"
+"Henr�quez, Cristina",1,1977,F,Euro American-Panamanian,Multiracial Latinx-White,United States,Native,2,N/A,United States,"NJ, IL, DE, TX","Chicago, Dallas",Graduate,Master's,Y,University of Iowa,N,N/A,"21st Century Award Chicago Public Library Association, Alfredo Cisneros Del Moral Foundation Award"
 "Henry, Eric",1,,,,,,,,,,,,,,,,,,
 "Hernandez, Catherine",2,,F,Chinese-Filipinx-Indian-Spanish,Multiracial Asian-White,Canada,N/A,N/A,N/A,Canada,N/A,,,,,,,,
 "Herr, Michael",1,1940,M,Jewish,Jewish,United States,Native,,N/A,"United States, England",NY,Syracuse,Some Undergraduate,High School Diploma,N,,N,N/A,
@@ -276,12 +276,12 @@ Ice Cube,1,1969,M,African American,Black,United States,Native,,N/A,United States
 "Iyer, Pico",1,1957,M,Indian,Asian,England,Foreign,1.5,1964,"England, United States, Japan",CA,,Graduate,Master's,N,"Harvard University, Oxford University",N,N/A,Guggenheim Fellowship
 "Jaisohn, Philip",1,1864,M,Korean,Asian,Korea,Foreign,1,1885,"Korea, United States",PA,Philadelphia,Graduate,MD,N,George Washington University,N,N/A,
 "Jen, Gish",13,1955,F,Chinese,Asian,United States,Native,2,N/A,United States,"NY, CA, MA","New York City, Cambridge",Graduate,Master's,Y,University of Iowa,N,N/A,"Lannan Literary Award, Guggenheim Fellowship, Mildred and Harold Strauss Livings, and more"
-"Jetñil-Kijiner, Kathy",4,,F,Marshall Islander,Pacific Islander,Marshall Islands,Foreign,1.5,,"Marshall Islands, United States","HI, CA","Honolulu, Oakland",Graduate,Master's,N,University of Hawai'i Manoa,,,
+"Jet�il-Kijiner, Kathy",4,,F,Marshall Islander,Pacific Islander,Marshall Islands,Foreign,1.5,,"Marshall Islands, United States","HI, CA","Honolulu, Oakland",Graduate,Master's,N,University of Hawai'i Manoa,,,
 "Jiang, Ji-Li",1,1954,F,Chinese,Asian,China,Foreign,1,1984,"China, United States","HI, WA",Seattle,Undergraduate,Bachelor's,N,University of Hawai'i,N,N/A,
 "Jin, Ha",15,1956,M,Chinese,Asian,China,Foreign,1,,"China, United States",MA,Boston,Graduate,PhD,N,Brandeis University,Y,Boston University,Guggenheim Fellowship
-"Joffé, Roland",1,1945,M,English-French,White,England,N/A,N/A,N/A,,,,Undergraduate,Bachelor's,N,University of Manchester,N,N/A,
+"Joff�, Roland",1,1945,M,English-French,White,England,N/A,N/A,N/A,,,,Undergraduate,Bachelor's,N,University of Manchester,N,N/A,
 "Kadohata, Cynthia",4,1956,F,Japanese,Asian,United States,Native,3,N/A,,,,Undergraduate,Bachelor's,N,University of Southern California,N,N/A,"National Endowment for the Arts Fellowship, Whiting Award"
-"Kahakauwila, Kristiana",1,,F,German-Hawaiian-Norwegian,Multiracial Pacific Islander-White,United States,Native,,N/A,United States,"HI, CA, WA",,Graduate,Master's,Y,University of Michigan,Y,"Western Washington University, University of Hawai'i Manoa","Jane Tinkham Broughton Fellowship in Fiction, Lisa Goldberg Fellow at Harvard University’s Radcliffe Institute of Advanced Study"
+"Kahakauwila, Kristiana",1,,F,German-Hawaiian-Norwegian,Multiracial Pacific Islander-White,United States,Native,,N/A,United States,"HI, CA, WA",,Graduate,Master's,Y,University of Michigan,Y,"Western Washington University, University of Hawai'i Manoa","Jane Tinkham Broughton Fellowship in Fiction, Lisa Goldberg Fellow at Harvard University�s Radcliffe Institute of Advanced Study"
 "Kaling, Mindy",1,1979,F,Indian,Asian,United States,Native,2,N/A,United States,NY,New York City,Undergraduate,Bachelor's,N,Dartmouth College,N,N/A,"Producers' Guild of America Norma Lear Achievement Award in Television, National Medal of the Arts, Gracie Awards, and more "
 "Kalita, Mitra",1,,F,Indian,Asian,United States,Native,,N/A,United States,"NY, NJ, PR",New York City,Graduate,Master's,N,Columbia School of Journalism,N,N/A,
 "Kamdar, Mira",1,1957,F,Danish-Indian,Multiracial Asian-White,,,,N/A,,,,Graduate,PhD,N,University of California Berkeley,Y,Ecole de Journalisme de Sciences Po,
@@ -335,7 +335,7 @@ Kiwi (Jack DeJesus),1,,M,Filipinx,Asian,United States,Native,2,N/A,United States
 "Krishnan, Indu",1,,F,Indian,Asian,India,Foreign,,,United States,"NY, CA",San Francisco,,,,,,,National Endowment for the Arts Fellowship
 "Kunio, Shimizu",1,1936,M,Japanese,Asian,Japan,N/A,N/A,N/A,Japan,,,Undergraduate,Bachelor's,N,Waseda University,Y,Tama University,
 "Kuniyoshi, Yasuo",1,1889,M,Japanese,Asian,Japan,Foreign,1,1906,"Japan, United States","CA, NY","Okayama, Los Angeles, New York City",,,,,N,N/A,Guggenheim Fellowship
-"Kuo, Helena",1,1911,F,Chinese ,Asian,China,Foreign,1,1939,"China, England, United States",,,Undergraduate,Bachelor's,N,Shanghai University,N,N/A,
+"Kuo, Helena",1,1911,F,Chinese,Asian,China,Foreign,1,1939,"China, England, United States",,,Undergraduate,Bachelor's,N,Shanghai University,N,N/A,
 "Kuramoto, Kazuko",1,1927,F,Japanese,Asian,China (under Japanese occupation),N/A,N/A,N/A,"China (under Japanese occupation), Japan",,,Undergraduate,Bachelor's,N,Eastern Oregon State University,N,N/A,
 "Kurup, Shishir",1,1961,M,Indian,Asian,India,Foreign,1,1974,"India, Kenya, United States",CA,,Graduate,Master's,Y,University of California San Diego,N,N/A,
 "Kuruvilla, Sunil",1,,M,Indian,Asian,,N/A,N/A,N/A,Canada,,,Graduate,Master's,Y,"University of Windsor, Yale University",N,N/A,
@@ -355,9 +355,9 @@ Kiwi (Jack DeJesus),1,,M,Filipinx,Asian,United States,Native,2,N/A,United States
 "Larsen, Wendy Wilder",1,1940,F,Euro American,White,United States,Native,,N/A,"Vietnam, United States","CA, MA",Santa Barbara,,,,,,,
 "Lau, Evelyn",4,1971,F,Chinese (from Hong Kong),Asian,Canada,N/A,N/A,N/A,Canada,,,Some High School,None,N,N/A,N,N/A,
 "Law-Yone, Wendy",2,1947,F,Burmese-Chinese-English,Multiracial Asian-White,Burma (present-day Myanmar),Foreign,1,1967,"Burma (present-day Myanmar), United States",DC,"Washington, DC",Undergraduate,Bachelor's,N,Eckerd College,N,N/A,National Endowment for the Arts Fellowship
-lê thị điễm thúy  ,4,1972,F,Vietnamese,Asian,South Vietnam,Foreign,1.5,,"South Vietnam, United States","CA, MA",San Diego,Undergraduate,Bachelor's,N,Hampshire College,N,N/A,"Guggenheim, Pushcart Prize, USA Fellowship"
+l� th_ _i_m th�y,4,1972,F,Vietnamese,Asian,South Vietnam,Foreign,1.5,,"South Vietnam, United States","CA, MA",San Diego,Undergraduate,Bachelor's,N,Hampshire College,N,N/A,"Guggenheim, Pushcart Prize, USA Fellowship"
 "Le, Mike",1,,M,Vietnamese,Asian,Vietnam,Foreign,,,United States,"CA, MN","Los Angeles, St. Paul",Some Undergraduate,,,,N,N/A,
-"Lê, Dinh Q.",1,1968,F,Vietnamese,Asian,South Vietnam,Foreign,1.5,,"South Vietnam, United States",CA,Los Angeles,Graduate,Master's,Y,The School of Visual Arts,,,"National Endowment for the Arts Fellowship, Prince Claus Award, Rockefeller Foundation Bellagio Residency Award, and more"
+"L�, Dinh Q.",1,1968,F,Vietnamese,Asian,South Vietnam,Foreign,1.5,,"South Vietnam, United States",CA,Los Angeles,Graduate,Master's,Y,The School of Visual Arts,,,"National Endowment for the Arts Fellowship, Prince Claus Award, Rockefeller Foundation Bellagio Residency Award, and more"
 "Le, Nam",6,1978,M,Vietnamese,Asian,Vietnam,N/A,N/A,N/A,"Australia, United States, England","IA, MA",,Graduate,Master's,Y,University of Iowa,N,N/A,
 "Lee, Ang",3,1954,M,Chinese (from Taiwan),Asian,Taiwan,Foreign,1,1978,Taiwan,,,Graduate,Master's,Y,New York University,N,N/A,
 "Lee, Bruce",2,1940,M,Chinese (from Hong Kong)-European,Multiracial Asian-White,United States,Native,2,N/A,"United States, Hong Kong (British Territory)","CA, WA","San Francisco, Seattle, Hong Kong, Los Angeles",High School,High School Diploma,N,Edison Technical School,N,N/A,"Hollywood Walk of Fame Star, Hong Kong Film Award for Lifetime Achievement, Martial Arts Hall of Fame inductee, and more"
@@ -378,7 +378,7 @@ lê thị điễm thúy  ,4,1972,F,Vietnamese,Asian,South Vietnam,Foreign,1.5,,"
 "Lee, Min Jin",1,1968,F,Korean,Asian,South Korea,Foreign,1.5,1976,United States,NY,New York City,Graduate,JD,N,Georgetown University,N,N/A,
 "Lee, Quentin",1,1971,M,Chinese (from Hong Kong),Asian,Hong Kong (British territory),N/A,N/A,N/A,Canada,,,Graduate,Master's,Y,University of California Los Angeles,N,N/A,
 "Lee, Rose Hum",2,1904,F,Chinese,Asian,United States,Native,2,N/A,,,,Graduate,PhD,N,University of Chicago,,,
-"Lee, Wen Ho",1,1939,M,Chinese (from Taiwan),Asian,Taiwan (Japanese colony) ,Foreign,1,1965,"Taiwan (Japanese colony), United States","TX, NM",Albuquerque,Graduate,PhD,N,Texas A&M University,N,N/A,
+"Lee, Wen Ho",1,1939,M,Chinese (from Taiwan),Asian,Taiwan (Japanese colony),Foreign,1,1965,"Taiwan (Japanese colony), United States","TX, NM",Albuquerque,Graduate,PhD,N,Texas A&M University,N,N/A,
 "Lee, Yan Phou",2,1861,M,Chinese,Asian,China,Foreign,1,1880,,,,,,,,,,
 "Lee, Young Jean",1,1974,F,Korean,Asian,South Korea,Foreign,1.5,,United States,"NY, WA",New York City,Graduate,Master's,Y,Brooklyn College,N,N/A,"Guggenheim Fellowship, National Endowment for the Arts Fellowship"
 "Lei, Brianna",1,,F,Chinese,Asian,,,,,,,,Undergraduate,Bachelor's,N,University of Southern California,N,N/A,
@@ -386,7 +386,7 @@ lê thị điễm thúy  ,4,1972,F,Vietnamese,Asian,South Vietnam,Foreign,1.5,,"
 "Leong, Evan Jackson",1,,M,Chinese,Asian,United States,Native,,N/A,United States,CA,San Francisco,Undergraduate,Bachelor's,N,University of California Los Angeles,N,N/A,
 "Leong, Monfoon",1,1916,M,Chinese,Asian,United States,Native,,N/A,United States,CA,"San Diego, San Jose, Oakland",Graduate,Master's,N,University of Minnesota,N,N/A,
 "Leong, Russell",9,1950,M,Chinese,Asian,United States,Native,,N/A,United States,CA,,Graduate,Master's,Y,University of California Los Angeles,Y,University of California Los Angeles,
-"Leung, Brian",1,1967,M,Chinese-Euro American,Multiracial Asian-White,United States,Native,,N/A,United States,"CA, IN",,Graduate,Master's,Y,Indiana University,Y,Purdue University,Jim Duggins Outstanding Mid-Career Novelist Prize Lambda Literary Foundation
+"Leung, Brian",1,1967,M,Chinese-Euro American,Multiracial Asian-White,United States,Native,,N/A,United States,"CA, IN",,Graduate,Master's,Y,"Indiana University Bloomington, California State University Los Angeles",Y,Purdue University,Jim Duggins Outstanding Mid-Career Novelist Prize Lambda Literary Foundation
 "Li, Gladys Ling-Ai",1,1908,F,Chinese,Asian,United States,Native,,,"China, United States",HI,,Undergraduate,Bachelor's,N,University of Hawai'i,N,N/A,
 "Li, Yiyun",3,1972,F,Chinese,Asian,China,Foreign,1,1996,"China, United States",,,Graduate,Master's,Y,University of Iowa,Y,Princeton University,"Whiting Award, MacArthur Fellowship, American Academy of Arts and Letters' Benjamin H. Danks Award, and more"
 "Liang, Tsai Ming",1,1957,M,Chinese (from Malaysia),Asian,Malaysia,N/A,N/A,N/A,"Malaysia, Taiwan",,,Undergraduate,Bachelor's,N,Chinese Culture University,N,N/A,"Venice Film Festival Golden Lion, Berlin International Film Festival Silver Bear, Venice International Film Festival Prize, and more"
@@ -395,7 +395,7 @@ lê thị điễm thúy  ,4,1972,F,Vietnamese,Asian,South Vietnam,Foreign,1.5,,"
 "Lim, Genny",2,1946,F,Chinese,Asian,United States,Native,2,N/A,United States,CA,San Francisco,Graduate,Master's,N,San Francisco State University,Y,California Institute of Integral Studies,
 "Lim, Paul Stephen",1,1944,M,Filipinx,Asian,Philippines (under Japanese occupation),Foreign,1,,United States,KS,,Graduate,Master's,N,University of Kansas,Y,University of Kansas,
 "Lim, Shirley Geok-lin",9,1944,F,Chinese (from Malaysia),Asian,Malaysia (under Japanese occupation),Foreign,1,1969,"Malaysia (British colony), United States","MA, CA",,Graduate,PhD,N,Brandeis University,Y,University of California Santa Barbara,
-"Limón, Martin",2,1948,M,,,,,,,United States,CA,,,,,,,,
+"Lim�n, Martin",2,1948,M,,,,,,,United States,CA,,,,,,,,
 "Lin-Liu, Jen",1,,F,Chinese,Asian,United States,Native,2,N/A,"United States, China, Cuba",CA,"New York City, Beijing, Havana",Graduate,Master's,N,Columbia University,N,N/A,
 "Lin, Ed",1,1969,M,Chinese (from Taiwan),Asian,United States,Native,,N/A,United States,NY,New York City,Undergraduate,Bachelor's,N,Columbia University,N,N/A,
 "Lin, Grace",3,1974,F,Chinese (from Taiwan),Asian,United States,Native,2,N/A,"United States, Canada","NY, MA",Montreal,Undergraduate,Bachelor's,N,Rhode Island School of Design,N,N/A,
@@ -440,11 +440,11 @@ M.I.A.,1,1975,F,Tamil,Asian,United Kingdom,N/A,N/A,N/A,"Sri Lanka, United Kingdo
 "Massey, Sujata",1,1964,F,German-Indian,Multiracial Asian-White,England,Foreign,1.5,1969,"England, Japan, United States","MN, MD","St. Paul, Baltimore",Undergraduate,Bachelor's,N,Johns Hopkins University,N,N/A,
 "Matsuda de Cristoforo, Violet Kazue",1,1917,F,Japanese,Asian,United States,Native,,N/A,"Japan, United States","HI, CA",,High School,High School Diploma,N,N/A,N,N/A,National Endowment for the Arts National Heritage Fellowship
 "McCunn, Ruthanne Lum",5,1946,F,Chinese-Scottish,Multiracial Asian-White,,,,,"Hong Kong (British territory), United States","CA, TX","Austin, San Francisco",Undergraduate,Bachelor's,N,University of Texas Austin,N,N/A,
-"McDougall, Brandy Nālani",1,,F,Chinese-Hawaiian-Scottish,Multiracial Asian-Pacific Islander-White,United States,Native,,N/A,United States,HI,,Graduate,PhD,Y,University of Hawai'i Manoa,Y,University of Hawai'i Manoa,"Academy of American Poets Laureate Fellowship, Hawai'i State Poet Laureate"
+"McDougall, Brandy N_lani",1,,F,Chinese-Hawaiian-Scottish,Multiracial Asian-Pacific Islander-White,United States,Native,,N/A,United States,HI,,Graduate,PhD,Y,University of Hawai'i Manoa,Y,University of Hawai'i Manoa,"Academy of American Poets Laureate Fellowship, Hawai'i State Poet Laureate"
 "Meehan, Thomas",1,1929,M,Euro American,White,United States,Native,,N/A,United States,,,Undergraduate,Bachelor's,N,Hamilton College,N,N/A,
 "Mehta, Deepa",2,1950,F,Indian,Asian,India,N/A,N/A,N/A,"India, Canada",,,Undergraduate,Bachelor's,N,University of Delhi,N,N/A,
 "Mehta, Rahul",1,,M,Indian,Asian,United States,Native,2,N/A,United States,"WV, PA, NY, NC","Philadelphia, New York City",Graduate,Master's,Y,Syracuse University,Y,University of the Arts,
-"Mehta, Ved",3,1934,M,Punjabi (from India [British colony] [present-day Pakistan]),Asian,India (British colony) (present-day Pakistan),Foreign,1,1949,"India (British colony), England, United States","AR, CA, NY",,Graduate,Master's,N,Harvard University,,,MacArthur Fellowship
+"Mehta, Ved",3,1934,M,Punjabi (from India [British colony] [present-day Pakistan]),Asian,India (British colony) (present-day Pakistan),Foreign,1,1949,"India (British colony), England, United States","AR, CA, NY",,Graduate,Master's,N,"Harvard University, Oxford University",,,MacArthur Fellowship
 "Melville, Herman",2,1819,M,Euro American,White,United States,Native,,N/A,United States,"NY, MA","Boston, New York City",No High School,None,N,N/A,N,N/A,
 "Meminger, Neesha",1,,F,Indian,Asian,India,Foreign,1.5,,"India, Canada, United States",NY,"New York City, Toronto",Graduate,Master's,Y,New School,Y,,
 Mia Matsumiya,1,,F,,Asian,,,,,United States,CA,Los Angeles,,,,,,,
@@ -480,7 +480,7 @@ Mixmaster Mike,1,1970,M,German-Filipinx,Multiracial Asian-Jewish,United States,N
 "Murayama, Milton",3,1923,M,Japanese,Asian,United States,Native,2,N/A,United States,"HI, NY, CA",New York City,Graduate,Master's,N,Columbia University,N,N/A,
 "Murray, Sabina",2,1968,F,Euro American-Filipinx,Multiracial Asian-White,United States,Native,,N/A,"Australia, Philippines, United States","MA, PA",,Graduate,Master's,Y,University of Texas,Y,University of Massachusetts Amherst,PEN Faulkner Award
 "Musker, John",1,1953,M,Irish,White,United States,Native,3,N/A,United States,IL,Chicago,Undergraduate,Graduate,Y,California Institute of the Arts,N,N/A,"Annie Award, Art Directors Guild William Cameron Menzies Award, Los Angeles Film Critics Association Award"
-Nagahara Shōson,1,1900,M,Japanese,Asian,Japan,Foreign,1,1918,"Japan, United States","WA, CA","Seattle, Los Angeles",,,,,,,
+Nagahara Sh_son,1,1900,M,Japanese,Asian,Japan,Foreign,1,1918,"Japan, United States","WA, CA","Seattle, Los Angeles",,,,,,,
 "Nair, Meera",2,,F,Indian,Asian,India,Foreign,1,1997,"India, United States",NY,New York City,Graduate,Master's,Y,"Temple University, New York University",Y,"New York University, Brooklyn College",
 "Nair, Mira",3,1957,F,Indian,Asian,India,Foreign,1,,"India, United States","MA, NY",Bhubeneswar,Undergraduate,Bachelor's,N,Harvard University,Y,Columbia University,
 "Nakadate, Laurel",2,1975,F,African American-Euro American-Japanese,Multiracial Asian-Black-White,United States,Native,4,N/A,United States,"IA, MA, NY","Boston, New York City",Graduate,Master's,Y,Yale University,Y,Tufts University,
@@ -499,7 +499,7 @@ Nagahara Shōson,1,1900,M,Japanese,Asian,Japan,Foreign,1,1918,"Japan, United Sta
 "Ng, Mei",3,1967,F,Chinese,Asian,United States,Native,2,N/A,,,,Graduate,Master's,Y,Brooklyn College,N,N/A,
 "Nga, Tran Thi",1,1927,F,Vietnamese,Asian,China,Foreign,1,1975,"China, Vietnam, United States",CT,,,,,,N,N/A,
 "Nguyen, Bich Minh",4,1974,F,Vietnamese,Asian,South Vietnam,Foreign,1.5,,"South Vietnam, United States",MI,Grand Rapids,Graduate,Master's,Y,University of Michigan,Y,"University of Wisconsin Madison, University of San Francisco",Guggenheim Fellowship
-"Nguyễn, Charlie",1,,M,Vietnamese,Asian,,,,,,,,,,,,,,
+"Nguy_n, Charlie",1,,M,Vietnamese,Asian,,,,,,,,,,,,,,
 "Nguyen, Du",1,1766,M,Vietnamese,Asian,Vietnam,N/A,N/A,N/A,Vietnam,,,,,N,N/A,N,N/A,
 "Nguyen, Hai Dai",1,,,,,,,,,,,,,,,,,,
 "Nguyen, Kien",2,1967,M,Vietnamese,Asian,South Vietnam,Foreign,1,1985,United States,CA,,Graduate,Dental Degree,N,,N,N/A,
@@ -517,7 +517,7 @@ Nagahara Shōson,1,1900,M,Japanese,Asian,Japan,Foreign,1,1918,"Japan, United Sta
 "Okazaki, Steven",3,1952,M,Japanese,Asian,United States,Native,3,N/A,United States,CA,,Undergraduate,Bachelor's,N,San Francisco State University,N,N/A,
 "Okimoto, Daniel I.",2,1942,M,Japanese,Asian,United States,Native,,N/A,"Japan, United States","AZ, CA",,Graduate,PhD,N,University of Michigan,Y,Stanford University,
 "Okita, Dwight",1,1958,M,Japanese,Asian,United States,Native,3,N/A,United States,IL,Chicago,Undergraduate,Bachelor's,N,"University of Illinois, Chicago",N,N/A,
-"Okubo, Miné",12,1912,F,Japanese,Asian,United States,Native,,N/A,United States,"CA, NY",New York City,Graduate,Master's,Y,University of California Berkeley,N,N/A,
+"Okubo, Min�",12,1912,F,Japanese,Asian,United States,Native,,N/A,United States,"CA, NY",New York City,Graduate,Master's,Y,University of California Berkeley,N,N/A,
 "Ondaatje, Michael",1,1943,M,Dutch-Sinhalese (from Sri Lanka)-Tamil (from Sri Lanka),Multiracial Asian-White,Ceylon (British colony) (present-day Sri Lanka),N/A,N/A,N/A,"Ceylon (present-day Sri Lanka), England, Canada",,Montreal,Graduate,Master's,N,Queen's University,Y,,Booker Prize
 "Ong, Han",4,1968,M,Chinese (from Philippines),Asian,Philippines,Foreign,1,1984,"Philippines, United States",CA,Los Angeles,High School,High School Diploma,N,N/A,N,N/A,"MacArthur Fellowship, National Endowment for the Arts Fellowship, Guggenheim Fellowship"
 "Ortega, Antonio",1,1903,M,Cuban-Spanish,Latinx,Spain,N/A,N/A,N/A,"Spain, Cuba, Venezuela",,,,,,,,,
@@ -530,7 +530,7 @@ Nagahara Shōson,1,1900,M,Japanese,Asian,Japan,Foreign,1,1918,"Japan, United Sta
 "Palahniuk, Chuck",1,1962,M,Euro American,White,United States,Native,,N/A,,,,Undergraduate,Bachelor's,N,University of Oregon,N,N/A,
 "Pan, Bertha Bay-Sa",1,,F,Chinese (from Taiwan),Asian,United States,Native,,N/A,"United States, Taiwan",NJ,Taipei,Graduate,Master's,Y,Columbia University,N,N/A,"Directors Guild Award Best Asian American Filmmaker, Urbanworld Grand Jury Award Best Director"
 "Pan, Emily X. R.",1,,F,Chinese (from Taiwan),Asian,United States,Native,2,N/A,United States,NY,New York City,Graduate,Master's,Y,New York University,Y,"New York University, The New School, Vermont College of Fine Arts",
-"Paredes, Américo",2,1915,M,Mexican,Latinx,United States,Native,,N/A,United States,TX,,Graduate,PhD,N,University of Texas,Y,University of Texas Austin,
+"Paredes, Am�rico",2,1915,M,Mexican,Latinx,United States,Native,,N/A,United States,TX,,Graduate,PhD,N,University of Texas,Y,University of Texas Austin,
 "Park, Chanwook",4,1963,M,Korean,Asian,South Korea,N/A,N/A,N/A,South Korea,,,Undergraduate,Bachelor's,N,Sogang University,N,N/A,"Grand Prix Cannes Film Festival, Bogwan Order of Cultural Merit, Eugwan Order of Cultural Merit, and more"
 "Park, Daniel",1,,M,Korean,Asian,,,,,United States,CA,Los Angeles,,,,,,,
 "Park, Ed",1,1970,M,Korean,Asian,United States,Native,,N/A,United States,NY,New York City,Graduate,Master's,Y,Columbia University,N,N/A,
@@ -573,7 +573,7 @@ Psy,1,1977,M,Korean,Asian,South Korea,N/A,N/A,N/A,South Korea,,Seoul,Some Underg
 "Reynolds, Kevin",1,1952,M,Euro American,White,United States,Native,,N/A,,,,Graduate,JD,N,Baylor University,N,N/A,
 "Rhee, Margaret",2,1983,F,Korean,Asian,United States,Native,,N/A,United States,,,Graduate,PhD,N,UC Berkeley,Y,University of Buffalo,
 "Richardson, Samuel",1,1689,M,English,White,England,N/A,N/A,N/A,England,,,No High School,None,N,Christ's Hospital Grammar School,N,N/A,
-"Rizal, José",5,1861,M,Chinese-Filipinx,Asian,Philippines (Spanish colony),N/A,N/A,N/A,"Philippines (Spanish colony), Spain",,Madrid,Graduate,MD,N,Universidad Central de Madrid,N,N/A,
+"Rizal, Jos�",5,1861,M,Chinese-Filipinx,Asian,Philippines (Spanish colony),N/A,N/A,N/A,"Philippines (Spanish colony), Spain",,Madrid,Graduate,MD,N,Universidad Central de Madrid,N,N/A,
 "Rno, Sung",1,,M,,,,,,,,,,Graduate,Master's,Y,Brown University,N,N/A,
 "Roberts, Anjali",1,,F,Indian,Asian,,,,,"Australia, Italy",,Rome,,,,,,,"Lifetime Achievement Award from University of British Columbia, Punjab Arts Council Honor"
 "Roberts, William",1,1913,M,,,United States,Native,,N/A,United States,CA,Los Angeles,Undergraduate,Bachelor's,N,University of Southern California,,,
@@ -582,12 +582,12 @@ Psy,1,1977,M,Korean,Asian,South Korea,N/A,N/A,N/A,South Korea,,Seoul,Some Underg
 "Rodgers, Richard",4,1902,M,Jewish,Jewish,United States,Native,,N/A,United States,"NY, CA","New York City, Los Angeles",Undergraduate,Bachelor's,N,Columbia University,N,N/A,National Endowment for the Humanities Fellowship
 "Rodrigues, Darlene",2,,,Filipinx,Asian,United States,Native,2,N/A,United States,HI,,,,,,Y,University of Hawai'i Manoa,Fulbright Fellowship
 "Rodriguez, Richard",4,1944,M,Mexican,Latinx,United States,Native,,N/A,United States,CA,,Graduate,Master's,N,Columbia University,N,N/A,
-"Roffé, Reina",1,1951,F,Argentine,Latinx,Argentina,N/A,N/A,N/A,"Argentina, Spain",,,,,,,,,
+"Roff�, Reina",1,1951,F,Argentine,Latinx,Argentina,N/A,N/A,N/A,"Argentina, Spain",,,,,,,,,
 "Rohmer, Sax",1,1883,M,English,White,England,N/A,N/A,N/A,"England, United States",NY,New York City,,,,,,,
 "Roley, Brian Ascalon",6,,M,Euro American-Filipinx,Multiracial Asian-White,United States,Native,,N/A,United States,"CA, OH",,Graduate,JD,Y,University of California Los Angeles,Y,Miami University of Ohio,
 "Rony, Fatimah Tobing",1,,F,Indonesian,Asian,,,,,,,,Graduate,PhD,Y,Yale University,Y,University of California Irvine,
 "Rosca, Ninotchka",1,1946,F,Filipinx,Asian,Philippines,Foreign,1,,"Philippines, United States",NY,New York City,,,,,N,N/A,
-"Sai, Yōichi",1,1949,M,Japanese-Korean,Asian,Japan,N/A,N/A,N/A,Japan,N/A,,High School,High School Diploma,N,Tokyo Korean High School,,,
+"Sai, Y_ichi",1,1949,M,Japanese-Korean,Asian,Japan,N/A,N/A,N/A,Japan,N/A,,High School,High School Diploma,N,Tokyo Korean High School,,,
 "Sakamoto, Kerri",1,1960,F,Japanese,Asian,Canada,N/A,N/A,N/A,"Canada, United States",NY,New York City,Graduate,Master's,Y,New York University,N,N/A,
 "San, Kim",1,,M,Korean,Asian,,,N/A,N/A,,,,,,,,,,"PEN America Award for Poetry, National Book Award"
 "Sakiyama, Tami ",1,1954,F,Ryukyuan,Asian,Japan,N/A,N/A,N/A,Japan,,,,,,University of the Ryukyus,,,Kyushu Geijutsusai Bungaku Prize
@@ -599,13 +599,13 @@ Psy,1,1977,M,Korean,Asian,South Korea,N/A,N/A,N/A,South Korea,,Seoul,Some Underg
 "Saund, Dalip Singh",2,1899,M,Indian,Asian,India (British colony),Foreign,1,,"India (British colony), United States",CA,,Graduate,PhD,N,University of California Berkeley,N,N/A,
 "Say, Allen",2,1937,M,Japanese-Korean,Asian,Japan,Foreign,1.5,1943,"Japan, United States","CA, OR",,Some Undergraduate,High School Diploma,N,Citrus Union High School,N,N/A,
 "Scheinert, Daniel",1,1987,M,,,United States,Native,,,United States,AL,,Undergraduate,Bachelor's,N,Emerson College,N,N/A,"Alfred I. DuPont Award, American Association for the Advancement of Science Kavli Science Journalism Award"
-"Schönberg, Claude-Michel",3,1944,M,French,White,France,N/A,N/A,N/A,,,,,,,,N,N/A,
+"Sch�nberg, Claude-Michel",3,1944,M,French,White,France,N/A,N/A,N/A,,,,,,,,N,N/A,
 "Schwartz, Howard",1,,M,,,,,,,,,,,,,,,,
 "Schwartz, Karen",1,,,,,,,,,,,,,,,,,,BAFTA Fellowship
 "Schwartz, Stephen",1,,,,,,,,,,,,,,,,,,
 "Scott, Ridley",3,1937,M,English,White,England,Foreign,1,,"England, United States",CA,Los Angeles,Graduate,Master's,N,Royal College of Art,N,N/A,
 "See, Lisa",2,1955,F,Chinese-Euro American,Multiracial Asian-White,France,Foreign,,,United States,CA,Los Angeles,Undergraduate,Bachelor's,N,Loyola Marymount University,N,N/A,
-"Selasi, Taiye",1,1980,F,Ghanaian/Nigerian,Black,UK,Foreign,,,"England, Ghana, United States, Italy, Germany",MA,"Accra, Boston, Rome, Berlin",Graduate,Master's ,N,Oxford University,,,
+"Selasi, Taiye",1,1980,F,Ghanaian/Nigerian,Black,UK,Foreign,,,"England, Ghana, United States, Italy, Germany",MA,"Accra, Boston, Rome, Berlin",Graduate,Master's,N,Oxford University,,,
 "Selvadurai, Shyam",2,1965,M,Sinhalese-Tamil (from Sri Lanka),Asian,Ceylon (present-day Sri Lanka),N/A,N/A,N/A,"Ceylon (present-day Sri Lanka), Canada",,,Graduate,Master's,Y,University of British Columbia,Y,Humber College,
 "Semitsu, Junichi",1,,M,Japanese,Asian,United States,Native,2,N/A,United States,CA,,Graduate,JD,N,Stanford University,Y,University of San Diego,
 "Serisawa, Ikuo",1,1912,M,Japanese,Asian,Japan,Foreign,1.5,1918,"Japan, United States",CA,Long Beach,,,,,,,
@@ -619,13 +619,13 @@ Psy,1,1977,M,Korean,Asian,South Korea,N/A,N/A,N/A,South Korea,,Seoul,Some Underg
 "Shimano, Eddie",1,1911,M,Japanese,Asian,United States,Native,,N/A,United States,"WA, MA, IA, CA, NY","Seattle, Boston, San Francisco, New York City",Undergraduate,Bachelor's,,,N,N/A,
 "Shin, Rob",1,,,,,,,,,,,,,,,,,,Canadian Screen Award
 "Shiomi, Rick",2,1947,M,Japanese,Asian,Canada,Foreign,1,,"Canada, United States","CA, NY, MN","San Francisco, New York City",Graduate,Master's,N,Simon Fraser University,N,N/A,
-"Shraya, Vivek",1,1981,TF,Indian,Asian,Canada,N/A,N/A,N/A,Canada,,Edmonton,Graduate,Master's ,N,York University,Y,University of Calgary,National Endowment for the Arts Fellowship
+"Shraya, Vivek",1,1981,TF,Indian,Asian,Canada,N/A,N/A,N/A,Canada,,Edmonton,Graduate,Master's,N,York University,Y,University of Calgary,National Endowment for the Arts Fellowship
 "Shum, Mina",2,1966,F,Chinese (from Hong Kong),Asian,Hong Kong (British territory),N/A,N/A,N/A,Canada,,,Undergraduate,Bachelor's,N,University of British Columbia,N,N/A,
 "Sidhwa, Bapsi",2,1938,F,Pakistani,Asian,British India (present-day Pakistan),Foreign,1,1983,"Pakistan, United States",TX,,Undergraduate,Bachelor's,N,Kinnaird College for Women,Y,"Columbia University, Rice University, Brandeis University, and more",
 "Sieg, Gerald Chan",1,1909,F,Chinese,Asian,United States,Native,2,N/A,United States,GA,Savannah,High School,High School Diploma,N,Savannah High School,N,N/A,National Endowment for the Arts Fellowship
 "Silliman, Jael",1,1955,F,Jewish,Jewish,India,Foreign,1,,"India, United States","IA, NY",,Graduate,PhD,N,Columbia University,Y,,
 "Silliman, Ron",1,1946,M,Euro American,White,United States,Native,,N/A,United States,"WA, CA, PA",,Some Undergraduate,,N,,Y,University of Pennsylvania,
-"Sin, Tong-hyŏk",1,,M,Korean,Asian,North Korea,N/A,N/A,N/A,"North Korea, South Korea",,,,,,,,,
+"Sin, Tong-hy_k",1,,M,Korean,Asian,North Korea,N/A,N/A,N/A,"North Korea, South Korea",,,,,,,,,
 "Singh, Saint Nihal",1,1884,M,Indian,Asian,India,Foreign,1,1906,"United States, Canada, Japan, England","IL, NY","Vancouver, Chicago, New York City",Some Undergraduate,,,,N,N/A,
 "Singh, Sonia",3,,F,Indian,Asian,United States,Native,,N/A,,,,Undergraduate,Bachelor's,N,California State University Fullerton,N,N/A,"MacArthur Fellowship, National Humanities Medal"
 "Siu, Kam Wen",1,1950,M,Chinese,Asian,China,Foreign,1,1985,"China, Peru, United States",HI,Lima,Undergraduate,Bachelor's,N,San Marcos University,N,N/A,
@@ -641,23 +641,23 @@ Smithsonian Asian Pacific American Center/Secret Identities Collective,1,,N/A,,,
 "Stone, Oliver",1,1946,M,Euro American,White,United States,Native,,N/A,"United States, France","NY, CT",New York City,Undergraduate,Bachelor's,N,New York University,N,N/A,
 "Street, Julia Montgomery",1,,F,,,United States,Native,,N/A,United States,NC,,Undergraduate,Bachelor's,N,North Carolina College for Women,,,
 "Sukthankar, Ashwini",1,1974,F,Indian,Asian,India,,,,"India, Papua New Guinea",,"New Delhi, Mumbai",Graduate,JD,N,Harvard University,,Yale,
-"Suleri, Sara",1,1953,F,Pakistani-Welsh,Multiracial Asian-White,Pakistan,Foreign,1,,"Pakistan, United States","MA, CT","London, Lahore",Graduate,PhD ,N,Indiana University,Y,National Training School for Music,
+"Suleri, Sara",1,1953,F,Pakistani-Welsh,Multiracial Asian-White,Pakistan,Foreign,1,,"Pakistan, United States","MA, CT","London, Lahore",Graduate,PhD,N,Indiana University,Y,National Training School for Music,
 "Sullivan, Arthur",1,1842,M,Irish-Italian,White,England,N/A,N/A,N/A,England,N/A,London,,,N,,Y,University of Hawai'i,
-"Sullivan, Robert",1,1967,M,Irish-Māori,Multiracial Pacific Islander-White,New Zealand,N/A,N/A,N/A,New Zealand,,Auckland,Graduate,Master's,N,University of Auckland,Y,N/A,
+"Sullivan, Robert",1,1967,M,Irish-M_ori,Multiracial Pacific Islander-White,New Zealand,N/A,N/A,N/A,New Zealand,,Auckland,Graduate,PhD,N,University of Auckland,Y,N/A,
 "Suyin, Han",1,1916,F,Chinese-Flemish,Multiracial Asian-White,China,N/A,N/A,N/A,"China, Brussels, Hong Kong (British territory), India, Switzerland",,"Chengdu, London, Lausanne",Undergraduate,Bachelor's,N,Royal Free Hospital,N,,
 "Swain, Rachael",1,,,,,,,,,,,,,,,,,N/A,
 "Syal, Meera",1,1961,F,Indian,Asian,England,N/A,N/A,N/A,England,,,Undergraduate,Bachelor's,N,Manchester University,N,New York University Abu Dhabi,
 "Syjuco, Miguel",1,1976,M,Filipino,Asian,Philippines,Foreign,,,"Canada, United States",NY,"New York City, Montreal",Graduate,PhD,Y,University of Adelaide,Y,Institute of American Indian Arts,"Peabody Award, International Documentary Association Distinguished Achievement Award, Guggenheim Fellowship, and more"
 "Sze, Arthur",1,1950,M,Chinese,Asian,United States,Native,2,N/A,,,,Undergraduate,Bachelor's,N,University of California Berkeley,Y,,"National Book Award, Jackson Poetry Prize, Lannan Award"
 "Tagatac, Samuel",1,,M,Filipinx,Asian,Philippines,Foreign,1,,,,,,,,,,"University of California Los Angeles, University of California Santa Cruz",
-"Tajima-Peña, Renee",4,1958,F,Japanese,Asian,United States,Native,,N/A,United States,CA,,Undergraduate,Bachelor's,N,Harvard University,Y,Temple University,
+"Tajima-Pe�a, Renee",4,1958,F,Japanese,Asian,United States,Native,,N/A,United States,CA,,Undergraduate,Bachelor's,N,Harvard University,Y,Temple University,
 "Tajiri, Rea",1,1958,F,Japanese,Asian,United States,Native,,N/A,United States,"IL, CA, PA",Chicago,Graduate,Master's,Y,California Institute of the Arts,Y,,"Caldecott Honour, Eisner Award, Printz Award, and more"
 "Takashima, Shizuye",1,1930,F,Japanese,Asian,Canada,N/A,N/A,N/A,Canada,,,,,,,,California College of the Arts,"Ignatz Award, Joe Shuster Award, Honour of Distinction Dayne Ogilvie Prize"
 "Takemoto, TT",1,,NB,Japanese,Asian,United States,Native,4,N/A,United States,CA,,Graduate,PhD,Y,University of Rochester,Y,"Parsons School of Design, School of Visual Arts",
 "Tamaki, Jillian",1,,F,Egyptian-Japanese,Multiracial Asian-MENA,Canada,Foreign,4,N/A,"Canada, United States",NY,"Calgary, Toronto, New York City",Undergraduate,Bachelor's,N,Alberta College of Art and Design,Y,,
 "Tamaki, Mariko",2,1975,F,Japanese-Jewish,Multiracial Asian-Jewish,Canada,Foreign,1,2012,"Canada, United States",CA,Oakland,Graduate,Master's,N,York University,,N/A,Winner Emerging Writer's Contest Ploughshares
 "Tan, Amy",24,1952,F,Chinese,Asian,United States,Native,2,N/A,"United States, Switzerland",CA,San Jose,Graduate,Master's,N,San Jose State University,N,N/A,
-"Tan, Cheryl Lu-Lien",1,,F,Chinese (from Singapore),Asian,Singapore,Foreign,1,,"Singapore, United States",NY,New York City,Undergraduate ,Bachelor's,N,Northwestern University,N,,
+"Tan, Cheryl Lu-Lien",1,,F,Chinese (from Singapore),Asian,Singapore,Foreign,1,,"Singapore, United States",NY,New York City,Undergraduate,Bachelor's,N,Northwestern University,N,,
 "Tan, Lucy",1,,F,Chinese,Asian,United States,Native,2,N/A,"United States, China","NJ, WA","New York City, Shanghai, Seattle",Graduate,Master's,Y,University of Wisconsin Madison,,N/A,
 "Tan, Shaun",4,1974,M,Chinese,Asian,Australia,N/A,N/A,N/A,Australia,,,Undergraduate,Bachelor's,N,University of Western Australia,N,California Institute of the Arts,
 "Tanaka, Janice",1,1940,F,Japanese,Asian,United States,Native,,N/A,United States,"CA, IL",Chicago,Graduate,Master's,Y,Art Institute of Chicago,Y,,
@@ -669,7 +669,7 @@ Smithsonian Asian Pacific American Center/Secret Identities Collective,1,,N/A,,,
 "Tezuka, Osamu",1,1928,M,Japanese,Asian,Japan,N/A,N/A,N/A,Japan,,,Graduate,MD/PhD,N,Nara Medical University,N,N/A,
 "Tham, Hilary",1,1946,F,Chinese (from Malaysia),Asian,Malaysia (British colony),Foreign,1,1971,"Malaysia, United States","NJ, VA",,Undergraduate,Bachelor's,N,University of Malaya,N,University of the South Pacific,"Scotiabank Giller Prize, Governor-General's Award for Fiction, Edward Stanford Prize, and more"
 "Thaman, Konai Helu",2,,F,Tongan,Pacific Islander,Tonga,Foreign,,,"Tonga, New Zealand, United States, Fiji",CA,,Graduate,PhD,N,University of the South Pacific,Y,University of Toronto,
-"Thammavongsa, Souvankham",1,,F,Lao,Asian,Thailand,N/A,N/A,N/A,Canada,N/A,Toronto,Undergraduate ,Bachelor's,N,University of Toronto,Y,,
+"Thammavongsa, Souvankham",1,,F,Lao,Asian,Thailand,N/A,N/A,N/A,Canada,N/A,Toronto,Undergraduate,Bachelor's,N,University of Toronto,Y,,
 "Thao Worra, Bryan",1,,M,Lao,Asian,,,,,,,,Undergraduate,Bachelor's,,,,"City University of Hong Kong, Brooklyn College",
 "Thien, Madeleine",1,1974,F,Chinese (from Malaysia and Hong Kong),Asian,Canada,,,,"Canada, Netherlands, Germany",N/A,"Vancouver, Montreal, Berlin",Graduate,Master's,Y,University of British Columbia,Y,N/A,
 "Toklas, Alice B.",1,1877,F,Jewish (from Poland),Jewish,United States,Native,2,N/A,"United States, France","CA, WA","San Francisco, Seattle, Paris",Undergraduate,Bachelor's,N,University of Washington,N,,
@@ -701,10 +701,10 @@ Smithsonian Asian Pacific American Center/Secret Identities Collective,1,,N/A,,,
 "Verghese, Abraham",2,1955,M,Indian,Asian,Ethiopia,Foreign,1,1980,"Ethiopia, United States","TN, TX, CA",,Graduate,MD,Y,Madras University,Y,N/A,Guggenheim Fellowship
 "Vidor, King",1,1894,M,Euro American,White,United States,Native,,N/A,United States,"TX, CA",,Some High School,None,N,Peacock Military Academy,N,,
 "Vijayaraghavan, Vineeta",1,,,,,,,,,,,,,,,,,N/A,"Lifetime Achievement Award Native Writers Circle of the Americas, Distinguished Achievement Award Western Literature Association, MELUS Lifetime Achievement Award, and more"
-"Villa, José Garcia",3,1908,M,Filipinx,Asian,Philippines (United States territory),Foreign,1,,"Philippines (United States territory), United States","NM, NY",,Some Graduate,Bachelor's,N,Columbia University,N,N/A,
+"Villa, Jos� Garcia",3,1908,M,Filipinx,Asian,Philippines (United States territory),Foreign,1,,"Philippines (United States territory), United States","NM, NY",,Some Graduate,Bachelor's,N,Columbia University,N,N/A,
 "Villasin, Nadine",1,1974,F,Euro Canadian-Filipinx,Multiracial Asian-White,Philippines,N/A,N/A,N/A,Canada,,,,,,,N,"University of California Berkeley, University of New Mexico","Whiting Award, MacArthur Fellowship, Academy of American Poets Prize, and more"
 "Vizenor, Gerald",1,1934,M,Anishinaabe,Native American,United States,Native,N/A,N/A,,,,Undergraduate,Bachelor's,N,University of Minnesota,Y,,
-Võ Phiến,2,1925,M,Vietnamese,Asian,Vietnam,Foreign,1,,"Vietnam, United States",CA,Los Angeles,,,,,,,
+V� Phi_n,2,1925,M,Vietnamese,Asian,Vietnam,Foreign,1,,"Vietnam, United States",CA,Los Angeles,,,,,,,
 "Vu, Chi",1,,F,Vietnamese,Asian,Vietnam,N/A,N/A,N/A,Australia,,,,,,,,University of Massachusetts Amherst,Palm Springs International Film Festival Director to Watch
 "Vuong, Ocean",1,1988,M,Vietnamese,Asian,South Vietnam,Foreign,1.5,,"South Vietnam, United States",CT,Hartford,Graduate,Master's,Y,New York University,Y,,"Whiting Award, MacArthur Fellowship, Academy of American Poets Prize, and more"
 "Wachowski, Lana",1,1965,,Polish,White,United States,Native,,N/A,United States,IL,Chicago,Some Undergraduate,High School Diploma,N,Whitney M. Young High School,,N/A,
@@ -716,8 +716,8 @@ Võ Phiến,2,1925,M,Vietnamese,Asian,Vietnam,Foreign,1,,"Vietnam, United States
 "Wang, Wayne",7,1949,M,Chinese (from Hong Kong),Asian,Hong Kong (British territory),Foreign,1,1966,"Hong Kong (British territory), United States",CA,,Undergraduate,Bachelor's,N,California College of the Arts,N,"University of Pennsylvania, Columbia University",O Henry Award
 "Wang, Weike",1,,F,Chinese,Asian,China,Foreign,,,"United States, Australia, Canada",NY,New York City,Graduate,PhD,Y,Harvard University,Y,N/A,Whiting Award
 "Ward, Vincent",1,1956,M,,,New Zealand,N/A,N/A,N/A,,,,Undergraduate,Bachelor's,N,University of Canterbury,N,Seneca College,Academy Award
-"Watada, Terry",1,1951,M,Japanese,Asian,Canada,N/A,N/A,N/A,Canada,,,Graduate,Master's,N,York University,Y,,
-"Watanabe, José",3,1946,M,Japanese-Peruvian,Multiracial Asian-Latinx,Peru,N/A,N/A,N/A,Peru,,,,,,,,Oberlin College,
+"Watada, Terry",1,1951,M,Japanese,Asian,Canada,N/A,N/A,N/A,Canada,,,Graduate,Master's,N,University of Toronto,Y,,
+"Watanabe, Jos�",3,1946,M,Japanese-Peruvian,Multiracial Asian-Latinx,Peru,N/A,N/A,N/A,Peru,,,,,,,,Oberlin College,
 "Watanabe, Sylvia",1,1953,F,Japanese,Asian,United States,Native,3,N/A,United States,"Hi, OH",,Graduate,Master's,N,State University of New York Binghamton,Y,,MacArthur Fellowship
 "Watkins, Yoko Kawashima",1,,F,Japanese,Asian,,Foreign,,,,,,,,,,,N/A,
 "Wei, Te-sheng",1,1969,M,,,Taiwan,N/A,N/A,N/A,Taiwan,,,,,,,,,"Taipei Film Festival Award, "
@@ -726,7 +726,7 @@ Võ Phiến,2,1925,M,Vietnamese,Asian,Vietnam,Foreign,1,,"Vietnam, United States
 "Whitman, Walt",2,1819,M,Dutch-English-Welsh,White,United States,Native,,N/A,United States,"NY, DC, NJ","New York City, Washington D.C., Camden",No High School,None,N,N/A,N,Brown University,
 "Wideman, John",1,1941,M,African American,Black,United States,Native,,N/A,,,,Graduate,Master's,Y,University of Iowa,Y,N/A,"Golden Globe Award, Emmy Award"
 "Wilder, Laura Ingalls",2,1867,F,Euro American,White,United States,Native,,N/A,United States,"WI, KS, IA, SD, MO",,No High School,,N,N/A,N,University of Chicago,
-"Wilder, Thornton",1,1897,M,Euro American,White,United States,Native,,N/A,"United States, China","WI, CA",,Graduate,Master's,N,Princeton University ,Y,N/A,
+"Wilder, Thornton",1,1897,M,Euro American,White,United States,Native,,N/A,"United States, China","WI, CA",,Graduate,Master's,N,Princeton University,Y,N/A,
 "Wilson, August",1,1945,M,African American,Black,United States,Native,,N/A,,,,Some High School,None,N,N/A,N,University of Iowa,
 "Wolf, Margery",1,1933,F,Euro American,White,United States,Native,,N/A,,,,Undergraduate,Associate's,N,Santa Rosa Junior College,Y,N/A,"George Polk Award, National Newspaper Award, New England Press Association Newswoman of the Year Award, and more"
 "Wong, Ali",1,1982,F,Chinese-Vietnamese,Asian,United States,Native,2,N/A,United States,"CA, NY","San Francisco, New York City",Undergraduate,Bachelor's,N,University of California Los Angeles,N,N/A,
@@ -737,7 +737,7 @@ Võ Phiến,2,1925,M,Vietnamese,Asian,Vietnam,Foreign,1,,"Vietnam, United States
 "Wong, Norman",1,,,,,,,,,,,,,,,,,Emily Carr University of Art and Design,National Endowment for the Arts Fellowship
 "Wong, Rita",2,1968,F,Chinese,Asian,Canada,N/A,2,N/A,"Canada, China, Japan",N/A,Vancouver,Graduate,PhD,N,Simon Fraser University,Y,University of Washington,
 "Wong, Shawn",17,1949,M,Chinese,Asian,United States,Native,,N/A,United States,"CA, WA",,Graduate,Master's,N,San Francisco State University,Y,N/A,
-"Woo, John",1,1946,M,Chinese,Asian,China,N/A,N/A,N/A,Hong Kong ,,,,,,,N,"University of California Berkeley, San Francisco State University, San Jose State University",
+"Woo, John",1,1946,M,Chinese,Asian,China,N/A,N/A,N/A,Hong Kong,,,,,,,N,"University of California Berkeley, San Francisco State University, San Jose State University",
 "Woo, Merle",1,1941,F,Chinese-Korean,Asian,United States,Native,2,N/A,United States,CA,San Francisco,Graduate,Master's,N,San Francisco State University,Y,N/A,
 "Worra, Bryan Thao",1,1973,M,Lao,Asian,Laos,Foreign,1.5,1973,United States,"MT, AK, MI, MN, CA",,Undergraduate,Bachelor's,N,Otterbein University,N,,
 "Worthington, William",1,1872,M,Euro American,White,United States,Native,,N/A,,,,,,,,,N/A,
@@ -780,6 +780,6 @@ Võ Phiến,2,1925,M,Vietnamese,Asian,Vietnam,Foreign,1,,"Vietnam, United States
 "Zabusky, Charlotte",1,1932,F,Jewish,Jewish,United States,Native,2,N/A,United States,"MA, CA, NJ, PA",Pittsburgh,Graduate,Master's,N,Fairleigh Dickinson University,N,N/A,
 "Zangwill, Israel",1,1864,M,Jewish,Jewish,England,N/A,N/A,N/A,England,,London,Undergraduate,Bachelor's,N,University of London,N,,
 "Zhang, Song Nan",1,1942,M,Chinese,Asian,China,N/A,N/A,N/A,"China, Canada",,,Graduate,Master's,,Central Institute of Fine Arts,,,
-"Zi, Ouyang",1,1939,F,Chinese,Asian,Japan,Foreign,,,,,,Graduate,Master's,,,,N/A,
+"Zi, Ouyang",1,1939,F,Chinese,Asian,Japan,Foreign,,,,,,Graduate,Master's,,University of Illinois,,N/A,
 "Zia, Helen",1,1952,F,Chinese,Asian,United States,Native,2,N/A,United States,"CA, MI",Detroit,Undergraduate,Bachelor's,N,Princeton University,N,N/A,
-Zitkála-Šá,1,1876,F,Sioux,Native American,United States,Native,N/A,N/A,United States,"SD, IN, UT, DC",Washington DC,Some Undergraduate,,N,,N,,
+Zitk�la-_�,1,1876,F,Sioux,Native American,United States,Native,N/A,N/A,United States,"SD, IN, UT, DC",Washington DC,Some Undergraduate,,N,,N,,
