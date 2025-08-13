@@ -1,4 +1,4 @@
-﻿title,instances_of_study,author_name,2_author_name,3_author_name,4_author_name,publication_year,genre,publisher,text_awards,nyt_bestseller
+title,instances_of_study,author_name,2_author_name,3_author_name,4_author_name,publication_year,genre,publisher,text_awards,nyt_bestseller
 ¡Yo!,1,"Alvarez, Julia",,,,1997,Novel,Algonquin Books,,N
 """4 Years and 1 Anniversary Are Enough for Me""",1,"Rodrigues, Darlene",,,,2007,Poetry,,,N/A
 """A Brief History of the Trans-Pacific Tunnel""",1,"Liu, Ken",,,,2016,Short Story(ies),Gallery/Saga Press,,N/A
@@ -12,7 +12,7 @@
 """An Autumn Fan""",1,"Eaton, Edith",,,,1910,Short Story(ies),Independent Magazine,,N/A
 """Auntie Tsia Lays Dying""",1,"Chan, Jeffery Paul",,,,1971,Short Story(ies),Aion (magazine),,N/A
 """Away Down in Jamaica""",1,"Eaton, Edith",,,,1898,Short Story(ies),Metropolitan (magazine),,N/A
-"""Beautiful Women""",1,"""Beautiful Women""",,,,2012,Short Story(ies),Penguin,,N
+"""Beautiful Women""",1,"Lee, Krys",,,,2012,Short Story(ies),Penguin,,N
 """Beauty and Sadness""",1,"Song, Cathy",,,,1983,Poetry,Yale University Press,,N/A
 """Biag ni Lam-ang""",1,Phililippine Folklore,,,,,,,,N/A
 """Bie You Dong Tian: Another World Lies Beyond""",2,"Leong, Russell",,,,2011,Poetry,Amerasia Journal,,N/A
@@ -350,7 +350,7 @@ Everything Everywhere All at Once,1,"Kwan, Daniel","Scheinert, Daniel",,,2022,Fi
 Everything I Never Told You,1,"Ng, Celeste",,,,2014,Novel,Penguin,Asian/Pacific American Award,N
 Ex Machina,1,"Garland, Alex",,,,2015,Film,A24,"Academy Award, British Independent Film Award, Critics Choice Award, and more",N/A
 Exit West,1,"Hamid, Mohsin",,,,2017,Novel,Riverhead,"Los Angeles Times Book Prize, Aspen Words Literary Prize",Y
-Expounding the Doubtful Points ,1,"Lum, Wing Tek",,,,1987,Poetry,Bamboo Ridge Press,American Book Award,N/A
+Expounding the Doubtful Points,1,"Lum, Wing Tek",,,,1987,Poetry,Bamboo Ridge Press,American Book Award,N/A
 Face,1,"Liu, Aimee",,,,1994,Novel,Warner Books,,N
 Face,1,"Pan, Bertha Bay-Sa",,,,2002,Film,Indican Pictures,GenArt Film Festival Audience Award,N/A
 Facing the Mirror: Lesbian Writing from India,1,"Sukthankar, Ashwini",,,,1999,Anthology,Penguin,,N/A
@@ -358,7 +358,7 @@ Fake House,1,"Dinh, Linh",,,,2000,Short Story(ies),Seven Stories Press,,N
 Falling Leaves,2,"Mah, Adeline Yen",,,,1998,Prose Nonfiction,John Wiley & Sons,,N/A
 Family Devotions,1,"Hwang, David Henry",,,,1981,Drama,Joseph Papp Public Theater,,N/A
 Farewell to Manzanar,5,"Houston, Jeanne Wakatsuki","Houston, James D.",,,1973,Prose Nonfiction,Houghton Mifflin,,N/A
-"Farewell, Theresa",1,"Cha, John",,,,2016,Prose Nonfiction,Munhaksegyesa ,,N
+"Farewell, Theresa",1,"Cha, John",,,,2016,Prose Nonfiction,Munhaksegyesa,,N
 "Fasting, Feasting",1,"Desai, Anita",,,,1999,Novel,Houghton Mifflin Harcourt,,N
 Father and Glorious Descendant,2,"Lowe, Pardee",,,,1943,Prose Nonfiction,"Little, Brown, and Company",,N/A
 Father of the Four Passages,1,"Yamanaka, Lois-Ann",,,,2001,Novel,"Farrar, Strauss & Giroux",,N
@@ -747,7 +747,7 @@ Tea with Milk,1,"Say, Allen",,,,1999,Children's Book,Houghton Mifflin,,N/A
 Teenage Apocalypse Trilogy,1,"Araki, Gregg",,,,1993-1997,Film,Strand Releasing,,N/A
 Tender,1,"Chan, Celeste",,,,2018,Anthology,Foglifter Press,,N
 The Accidental Asian,3,"Liu, Eric",,,,1998,Prose Nonfiction,Random House,,N/A
-The Alice B. Toklas Cook Book,1,"Toklas, Alice B.",,,,1954,Prose Nonfiction,Harper ,,N/A
+The Alice B. Toklas Cook Book,1,"Toklas, Alice B.",,,,1954,Prose Nonfiction,Harper,,N/A
 The America That I See,1,"Ki'ichi, Hosaka",,,,1913-1914,Novel,Yubundo,,
 The American Diary of a Japanese Girl,1,"Noguchi, Yone",,,,1901,Novel,Frederick A. Stokes,,N/A
 The Architecture of Loss,1,"Cho, Julia",,,,2003,Drama,New York Theatre Workshop,,N/A
@@ -758,7 +758,7 @@ The Astonishing Color of After,1,"Pan, Emily X. R.",,,,2018,Novel,"Little, Brown
 The Barbarians Are Coming,2,"Louie, David Wong",,,,2000,Novel,Putnam,,N
 The Bean Trees,1,"Kingsolver, Barbara",,,,1988,Novel,Harpers & Row,,N
 The Best We Could Do,2,"Bui, Thi",,,,2017,Graphic Narrative,Abrams ComicArts,"2018 American Book Award, 2018 Ringo Award for Best Non-fiction Comic Work, 2018 Pop Culture Classroom Excellence in Graphic Literature Mosaic Award",N/A
-The Big Aiiieeeee!,2,"Chan, Jeffery Paul","Chin, Frank","Inada, Lawson Fusao","Wong, Shawn",1991,Anthology,Meridian ,,N/A
+The Big Aiiieeeee!,2,"Chan, Jeffery Paul","Chin, Frank","Inada, Lawson Fusao","Wong, Shawn",1991,Anthology,Meridian,,N/A
 The Big Boss or Fists of Fury [唐山大兄],1,"Lo, Wei",,,,1971,Film,Golden Harvest,,N/A
 The Birth of a Nation,2,"Griffith, D. W.",,,,1915,Film,Epoch Producing Company,,N/A
 The Bitter Tea of General Yen,1,"Capra, Frank",,,,1933,Film,Columbia Pictures,,N/A
@@ -803,7 +803,7 @@ The Fly,1,"Cronenberg, David",,,,1986,Film,20th Century Fox,,N/A
 The Foreign Student,4,"Choi, Susan",,,,1998,Novel,Harper Perennial,"Asian American Literature Award, Steven Turner Award",N
 The Fruit 'n Food,1,"Chang, Leonard",,,,1996,Novel,Black Heron Press,,N
 The Gangster of Love,3,"Hagedorn, Jessica",,,,1996,Novel,Houghton Mifflin,,N
-the gangster we are all looking for,4,lê thị điễm thúy  ,,,,2003,Novel,Knopf,,N
+the gangster we are all looking for,4,lê thị điễm thúy,,,,2003,Novel,Knopf,,N
 The Girl from Purple Mountain,1,"Chai, May-Lee","Chai, Winberg",,,2001,Prose Nonfiction,St. Martin's,,N/A
 The Glass Mountains,1,"Kadohata, Cynthia",,,,1995,Novel,White Wolf Pub,,N
 The Golden Gate,1,"Seth, Vikram",,,,1986,Novel,Random House,,N
@@ -822,7 +822,7 @@ The Joy Luck Club,20,"Tan, Amy",,,,1989,Novel,G. P. Putnam's Sons,,Y
 The Joy Luck Club,1,"Wang, Wayne",,,,1993,Film,Buena Vista Pictures,"Casting Society of America Best Casting for Feature Film, Gold Generation Award",N/A
 The Jungle Book,1,"Sommers, Stephen",,,,1994,Film,Walt Disney Pictures,,N/A
 The Kappa Child,2,"Goto, Hiromi",,,,2001,Novel,Red Deer Press,,N
-The Kibei Nisei [山城正雄『帰米二世―解体していく「日本人」] ,1,"Yamashiro, Masao",,,,1995,Prose Nonfiction,Gogatsu Shobo,,N/A
+The Kibei Nisei [山城正雄『帰米二世―解体していく「日本人」],1,"Yamashiro, Masao",,,,1995,Prose Nonfiction,Gogatsu Shobo,,N/A
 The Killing Fields,1,"Joffé, Roland",,,,1984,Film,Columbia-EMI-Warner Distributions,"Academy Award, BAFTA Awards",N/A
 The Kitchen God's Wife,2,"Tan, Amy",,,,1991,Novel,G. P. Putnam's Sons,,Y
 The Komagata Maru Incident,1,"Pollock, Sharon",,,,1978,Drama,Vancouver Playhouse,,N/A
